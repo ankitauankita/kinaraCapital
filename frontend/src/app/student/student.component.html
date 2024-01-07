@@ -1,0 +1,59 @@
+<div class="filter" [formGroup]="filterForm">
+  <input type="text" placeholder="Enter Student Name" formControlName="name" />
+  <input
+    type="text"
+    placeholder="Enter Student College"
+    formControlName="college"
+  />
+  <input
+    type="text"
+    placeholder="Enter Student Branch"
+    formControlName="branch"
+  />
+  <input type="text" placeholder="Enter Student CGPA" formControlName="CGPA" />
+  <input type="text" placeholder="Enter Student City" formControlName="city" />
+  <input
+    type="number"
+    placeholder="Enter Page Size"
+    formControlName="pageSize"
+    min="1"
+    value="1"
+  />
+  <input
+    type="number"
+    placeholder="Enter Page Number"
+    formControlName="pageNumber"
+    min="1"
+    value="1"
+  />
+
+  <button (click)="applyFilters()">Search</button>
+  <button (click)="resetFilters()">Reset</button>
+</div>
+
+<br />
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>College</th>
+      <th>Branch</th>
+      <th>CGPA</th>
+      <th>City</th>
+    </tr>
+  </thead>
+  <tbody>
+    <div *ngIf="errorFlag; else studentTable">
+      <p class="error-message">{{ errorMessage }}</p>
+    </div>
+    <ng-template #studentTable>
+      <tr *ngFor="let student of studentData">
+        <td>{{ student.name }}</td>
+        <td>{{ student.college }}</td>
+        <td>{{ student.branch }}</td>
+        <td>{{ student.CGPA }}</td>
+        <td>{{ student.city }}</td>
+      </tr>
+    </ng-template>
+  </tbody>
+</table>
