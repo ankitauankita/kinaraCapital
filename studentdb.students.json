@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "6598431bbffb4205e67d1130"
+  },
+  "name": "Ankita",
+  "city": "Bangalore",
+  "college": "IITB, Bangalore",
+  "branch": "CSE",
+  "CGPA": 8
+},
+{
+  "_id": {
+    "$oid": "6598434dbffb4205e67d1131"
+  },
+  "name": "Shubham",
+  "city": "Bangalore",
+  "college": "IITB, Bangalore",
+  "branch": "CSE",
+  "CGPA": 8
+},
+{
+  "_id": {
+    "$oid": "659967104fc421554756c4fe"
+  },
+  "name": "abc",
+  "city": "Pune",
+  "college": "IIT",
+  "branch": "ME",
+  "CGPA": 9
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1139"
+  },
+  "name": "Emily Johnson",
+  "college": "City University",
+  "branch": "Computer Science",
+  "CGPA": 6.9,
+  "city": "New York"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d113a"
+  },
+  "name": "Michael Rodriguez",
+  "college": "Tech Institute",
+  "branch": "Electrical Engineering",
+  "CGPA": 7.6,
+  "city": "San Francisco"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d113b"
+  },
+  "name": "Sophia Lee",
+  "college": "Science Academy",
+  "branch": "Mechanical Engineering",
+  "CGPA": 7.5,
+  "city": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d113c"
+  },
+  "name": "Ethan Martinez",
+  "college": "Engineering University",
+  "branch": "Civil Engineering",
+  "CGPA": 7.8,
+  "city": "Chicago"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d113d"
+  },
+  "name": "Olivia Davis",
+  "college": "Mathematics College",
+  "branch": "Mathematics",
+  "CGPA": 7.7,
+  "city": "Houston"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d113e"
+  },
+  "name": "Aiden Miller",
+  "college": "Bio Sciences Institute",
+  "branch": "Biology",
+  "CGPA": 7.4,
+  "city": "Miami"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d113f"
+  },
+  "name": "Emma Wilson",
+  "college": "Business School",
+  "branch": "Business Administration",
+  "CGPA": 8.6,
+  "city": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1140"
+  },
+  "name": "Mason Brown",
+  "college": "Arts Academy",
+  "branch": "Fine Arts",
+  "CGPA": 8.2,
+  "city": "Boston"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1141"
+  },
+  "name": "Ava Taylor",
+  "college": "Medicine University",
+  "branch": "Medicine",
+  "CGPA": 8.9,
+  "city": "Philadelphia"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1142"
+  },
+  "name": "Liam Anderson",
+  "college": "Environmental Science Institute",
+  "branch": "Environmental Science",
+  "CGPA": 8.5,
+  "city": "Denver"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1143"
+  },
+  "name": "Emily Johnson",
+  "college": "City University",
+  "branch": "Physics",
+  "CGPA": 8.9,
+  "city": "New York"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1144"
+  },
+  "name": "Michael Rodriguez",
+  "college": "Tech Institute",
+  "branch": "Electrical ",
+  "CGPA": 8.6,
+  "city": "San Francisco"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1145"
+  },
+  "name": "Sophia Lee",
+  "college": "Science Academy",
+  "branch": "Mechanical Engineering",
+  "CGPA": 5.5,
+  "city": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1146"
+  },
+  "name": "Ethan Martinez",
+  "college": "Engineering University",
+  "branch": "Civil Engineering",
+  "CGPA": 6.8,
+  "city": "Chicago"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1147"
+  },
+  "name": "Olivia Davis",
+  "college": "Mathematics College",
+  "branch": "Mathematics",
+  "CGPA": 7.7,
+  "city": "Houston"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1148"
+  },
+  "name": "Aiden Miller",
+  "college": "Bio Sciences Institute",
+  "branch": "Biology",
+  "CGPA": 4.4,
+  "city": "Miami"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d1149"
+  },
+  "name": "Emma Wilson",
+  "college": "Business School",
+  "branch": "Business Administration",
+  "CGPA": 6.6,
+  "city": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d114a"
+  },
+  "name": "Mason Brown",
+  "college": "Arts Academy",
+  "branch": "Fine Arts",
+  "CGPA": 6.2,
+  "city": "Boston"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d114b"
+  },
+  "name": "Ava Taylor",
+  "college": "Medicine University",
+  "branch": "Medicine",
+  "CGPA": 9.9,
+  "city": "Philadelphia"
+},
+{
+  "_id": {
+    "$oid": "659aa961bffb4205e67d114c"
+  },
+  "name": "Liam Anderson",
+  "college": "Environmental Science Institute",
+  "branch": "Environmental Science",
+  "CGPA": 7.5,
+  "city": "Denver"
+}]
